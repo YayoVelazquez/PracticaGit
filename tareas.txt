@@ -1,0 +1,1 @@
+& "C:/Users/DEll g15/AppData/Local/Microsoft/WindowsApps/python3.11.exe" "c:/Users/DEll g15/Desktop/GITPRACTICA/main.py"
