@@ -1,4 +1,4 @@
-# Gestor de Tareas 📝
+# Gestor de Tareas 
 
 Este es un proyecto en Python que permite agregar y ver tareas desde la consola.
 
